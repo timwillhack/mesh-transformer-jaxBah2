@@ -79,7 +79,6 @@ defusedxml==0.7.1
 descartes==1.1.0
 dill==0.3.4
 distributed==1.25.3
-dlib @ file:///dlib-19.18.0-cp37-cp37m-linux_x86_64.whl
 dm-haiku @ git+https://github.com/timwillhack/dm-haikuBah2@b76a3db3a39b82c8a1ae5a81a8a0173c23c252e5
 dm-tree==0.1.6
 docker-pycreds==0.4.0
