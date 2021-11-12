@@ -5,8 +5,8 @@ einops~=0.3.0
 requests~=2.25.1
 fabric~=2.6.0
 optax==0.0.6
-git+https://github.com/deepmind/dm-haiku
-git+https://github.com/EleutherAI/lm-evaluation-harness/tree/c406a6204755dac18a91236c7b48134bc4d2dbb6
+git+https://github.com/timwillhack/dm-haikuBah2
+git+https://github.com/timwillhack/lm-evaluation-harnessBah2
 ray[default]==1.4.1
 jax~=0.2.12
 Flask~=1.1.2
